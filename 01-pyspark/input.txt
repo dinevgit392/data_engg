@@ -1,0 +1,20 @@
+2026-07-01,1001,John,Electronics,Laptop,65000,Completed,Bangalore
+2026-07-01,1002,Alice,Fashion,Shoes,4500,Completed,Hyderabad
+2026-07-01,1003,David,Electronics,Mobile,32000,Returned,Mumbai
+2026-07-02,1004,Emma,Home,Furniture,28000,Completed,Chennai
+2026-07-02,1005,Chris,Electronics,Headphones,3500,Completed,Pune
+2026-07-02,1006,Sophia,Books,Python Book,1200,Cancelled,Delhi
+2026-07-03,1007,Michael,Electronics,Laptop,72000,Completed,Bangalore
+2026-07-03,1008,Olivia,Fashion,Watch,8500,Completed,Hyderabad
+2026-07-03,1009,Daniel,Groceries,Rice,1800,Completed,Kolkata
+2026-07-03,1010,James,Electronics,Tablet,28000,Returned,Mumbai
+2026-07-04,1011,Robert,Electronics,Monitor,17000,Completed,Pune
+2026-07-04,1012,Linda,Beauty,Cosmetics,2400,Completed,Delhi
+2026-07-04,1013,William,Fashion,T-Shirt,1200,Completed,Chennai
+2026-07-05,1014,Jennifer,Electronics,Keyboard,2800,Completed,Bangalore
+2026-07-05,1015,Richard,Home,Sofa,55000,Cancelled,Hyderabad
+2026-07-05,1016,Jessica,Electronics,Mouse,900,Completed,Mumbai
+2026-07-06,1017,Thomas,Books,Spark Guide,1500,Completed,Pune
+2026-07-06,1018,Sarah,Electronics,SSD,9500,Returned,Bangalore
+2026-07-06,1019,Charles,Fashion,Jacket,4800,Completed,Delhi
+2026-07-06,1020,Nancy,Electronics,Laptop,81000,Completed,Hyderabad
